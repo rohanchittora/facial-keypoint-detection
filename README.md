@@ -72,6 +72,8 @@ pip install -r requirements.txt
 
 ### Data
 
+##link to data: https://github.com/soheillll/Facial-Keypoint-Detection/tree/master/data
+
 All of the data you'll need to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
 
 
